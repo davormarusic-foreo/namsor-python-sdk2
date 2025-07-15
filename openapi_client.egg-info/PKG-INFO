@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: openapi-client
+Version: 2.0.27
+Summary: NamSor API v2
+Home-page: UNKNOWN
+Author: Namsor SAS
+Author-email: contact@namsor.com
+License: NamSorAPI_Lic_v0.0.7
+Keywords: OpenAPI,OpenAPI-Generator,NamSor API v2
+Platform: UNKNOWN
+Requires-Python: >=3.7
+License-File: LICENSE
+
+    NamSor API v2 : enpoints to process personal names (gender, cultural origin or ethnicity) in all alphabets or languages. By default, enpoints use 1 unit per name (ex. Gender), but Ethnicity classification uses 10 to 20 units per name depending on taxonomy. Use GET methods for small tests, but prefer POST methods for higher throughput (batch processing of up to 100 names at a time). Need something you can&#x27;t find here? We have many more features coming soon. Let us know, we&#x27;ll do our best to add it!   # noqa: E501
+    
+
